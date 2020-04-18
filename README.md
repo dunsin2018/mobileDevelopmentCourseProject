@@ -7,17 +7,18 @@ Mobile Development final course project.
 
 - What your plan for the next two weeks is
 
-Mobil application is a course am currently studying as part of compulsory course work in partial fulfilment of my studies as a software development student. The course comes with few weekly assignment meant for individual students undergoing the program and also the MOBILE APPLICATION program comes with a final project work following the above guidelines:
+Mobile application is a course am currently studying as part of compulsory course work in partial fulfilment of my studies as a software development student. The course comes with weekly assignments meant for students undergoing the program, by the end of MOBILE APPLICATION program, it is compulsory to do a final project. The guidelines for the final project are explained below:
 
-# WHAT MY APP IS GOING TO BE AND WHY I AM CHOOSING IT
+# MY PROPOSED APP AND WHY I AM CHOOSING IT
 
-Am still in the process of finalizing the app i will be working on.
+I am yet to decide what app i will be designing.
 
-# TECHNOLOGY TO BE USED FOR MY PROJECT WORK
+# TECHNOLOGY TO BE USED FOR MY PROJECT
 
-Sequel to the class lecture we the student has attended, i have critically looked at the flexibility of the technology that has been brought to our knowledge by the lecturer. i.e 
+Sequel to the topics of discussions during lectures, I have gone through the approach recommended by the lecturer and I decided to yield to one of his suggestions on how to develop a program.
 
 ***** Andriod for the app (java)
+
 ***** Firebase for backend(for storage of data)
 
 # PLANS FOR THE NEXT TWO WEEKS
