@@ -17,8 +17,8 @@ Am still in the process of finalizing the app i will be working on.
 
 Sequel to the class lecture we the student has attended, i have critically looked at the flexibility of the technology that has been brought to our knowledge by the lecturer. i.e 
 
-***** Andriod for the app
-***** Firebase for backend
+***** Andriod for the app (java)
+***** Firebase for backend(for storage of data)
 
 # PLANS FOR THE NEXT TWO WEEKS
 
