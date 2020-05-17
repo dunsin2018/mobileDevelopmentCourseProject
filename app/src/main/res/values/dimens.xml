@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txtsize">24sp</dimen>
+    <dimen name="buttonssize">90sp</dimen>
+    <dimen name="_20sdp">20sp</dimen>
+    <dimen name="_50sdp">50sp</dimen>
+    <dimen name="_18sdp">18sp</dimen>
+    <dimen name="_10sdp">10sp</dimen>
+    <dimen name="buttonsizelandscape">50dp</dimen>
+</resources>
