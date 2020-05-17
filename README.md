@@ -11,7 +11,7 @@ Mobile application is a course am currently studying as part of compulsory cours
 
 # MY PROPOSED APP AND WHY I AM CHOOSING IT
 
-I am yet to decide what app i will be designing.
+A complex calculator with extra function.
 
 # TECHNOLOGY TO BE USED FOR MY PROJECT
 
